@@ -1,6 +1,6 @@
-<h1> Project !!   </h1>
-<h2> Working with Ansible So far good. </h2>
-<h2> This is freaking tiring.</h2>
-<h3>deploying on a container CI/CD </h3>
-<body> this is edit where i am trying to deploy a war on a container using ansible playbook</body>
-
+<h1> indexing for Metaphorical Change !!   </h1>
+<h2>Git Clone, find path for index.jsp  </h2>
+<h2>edit the changes</h2>
+<h3> </h3>
+<body> </body>
+t
